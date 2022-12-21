@@ -1,0 +1,15 @@
+body > slides > slide
+{
+  width: 940px;
+  height: 720px
+}
+
+.gdbar img {
+  width: 160px !important;
+  height: 160px !important;
+ }
+
+.gdbar {
+  width: 200px !important;
+  height: 160px !important;
+}
